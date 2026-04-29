@@ -4,7 +4,7 @@
 
 Focused on building scalable, high-performance web applications with modern frontend technologies.
 
----
+<br>
 
 ## Technologies & Tools
 
