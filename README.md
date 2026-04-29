@@ -10,61 +10,61 @@ Living in the world of interfaces, components, and user experiences. I turn ☕ 
 
 ### 🧑‍💻 Frontend
 
-![Angular](https://camo.githubusercontent.com/ff9b8b2b8c5a4a6a8c2b4d0f0c0f6a5e4f2d6c5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444333030333f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172)
-![React](https://camo.githubusercontent.com/7b1e4b8b3b1f2d4a6c3a5b2c1d0e9f8a7b6c5d4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3030616365653f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374)
-![Vue](https://camo.githubusercontent.com/8d2f6b7c3a4e5d6f7a8b9c0d1e2f3a4b5c6d7e8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652d3431423838333f7374796c653d666f722d7468652d6261646765266c6f676f3d7675652e6a73)
-![Next.js](https://camo.githubusercontent.com/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73)
-![Nuxt.js](https://camo.githubusercontent.com/abcd1234efgh5678ijkl9101mnop1121qrst3141/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e7578742e6a732d3030646631613f7374796c653d666f722d7468652d6261646765266c6f676f3d6e7578742e6a73)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge\&logo=nuxt.js\&logoColor=white)
 
 ---
 
 ### 🎨 Styling & UI
 
-![TailwindCSS](https://camo.githubusercontent.com/1111222233334444555566667777888899990000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e64204353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373)
-![Material UI](https://camo.githubusercontent.com/aaaa1111bbbb2222cccc3333dddd4444eeee5555/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c2d3030374646463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7569)
-![Bootstrap](https://camo.githubusercontent.com/ffffeeee11112222333344445555666677778888/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242323f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170)
-![CSS3](https://camo.githubusercontent.com/9999888877776666555544443333222211110000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3236344445383f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ---
 
 ### ⚙️ State Management
 
-![Vuex](https://camo.githubusercontent.com/1234567890abcdef1234567890abcdef12345678/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f567565782d3432423838333f7374796c653d666f722d7468652d6261646765266c6f676f3d7675652e6a73)
-![Pinia](https://camo.githubusercontent.com/abcdefabcdefabcdefabcdefabcdefabcdefabcd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50696e69612d4646464630303f7374796c653d666f722d7468652d6261646765266c6f676f3d70696e6961)
+![Vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![Pinia](https://img.shields.io/badge/Pinia-F7DF1E?style=for-the-badge\&logo=pinia\&logoColor=black)
 
 ---
 
 ### 🌍 Internationalization
 
-![i18n](https://camo.githubusercontent.com/11223344556677889900aabbccddeeff00112233/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6931386e2d626c75653f7374796c653d666f722d7468652d6261646765)
+![i18n](https://img.shields.io/badge/i18n-000000?style=for-the-badge\&logo=googletranslate\&logoColor=white)
 
 ---
 
 ### 🔤 Core & Language
 
-![HTML5](https://camo.githubusercontent.com/223344556677889900aabbccddeeff0011223344/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35)
-![JavaScript](https://camo.githubusercontent.com/3344556677889900aabbccddeeff001122334455/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074)
-![TypeScript](https://camo.githubusercontent.com/44556677889900aabbccddeeff00112233445566/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ---
 
 ### 🔗 API & Data Fetching
 
-![Axios](https://camo.githubusercontent.com/556677889900aabbccddeeff0011223344556677/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4178696f732d3541353234463f7374796c653d666f722d7468652d6261646765)
-![Fetch API](https://camo.githubusercontent.com/6677889900aabbccddeeff001122334455667788/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46657463682532304150492d3030303030303f7374796c653d666f722d7468652d6261646765)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge\&logo=axios\&logoColor=white)
+![Fetch API](https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge\&logo=javascript\&logoColor=white)
 
 ---
 
 ### 🧪 Testing & Quality
 
-![Cypress](https://camo.githubusercontent.com/77889900aabbccddeeff00112233445566778899/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f437970726573732d3137323032423f7374796c653d666f722d7468652d6261646765)
-![ESLint](https://camo.githubusercontent.com/889900aabbccddeeff0011223344556677889900/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442324335333f7374796c653d666f722d7468652d6261646765)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge\&logo=eslint\&logoColor=white)
 
 ---
 
 ### ⚡ Build Tools
 
-![Vite](https://camo.githubusercontent.com/9900aabbccddeeff0011223344556677889900aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566974652d3634364346463f7374796c653d666f722d7468652d6261646765)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
 ---
 
