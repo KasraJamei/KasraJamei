@@ -43,5 +43,5 @@ Focused on building scalable, high-performance web applications with modern fron
 ## Contact
 
 * GitHub: https://github.com/kasrajamei
-* LinkedIn: [your-linkedin]
+* LinkedIn: [kasrajamei](https://www.linkedin.com/in/kasrajamei/)
 * Email: [jameikasra2002@gmail.com](mailto:jameikasra2002@gmail.com)
