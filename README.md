@@ -1,12 +1,13 @@
 # Hey, I'm Kasra Jamei
 
+```
 kasrajamei@github:~$ ./portrait.sh
 
   /\_/\     OS: Linux / Debian
  ( o.o )    Editor: Neovim
   > ^ <     Role: Tech Lead & Web Developer
             Focus: Web Dev, Systems, Architecture
-
+```
 ### Frontend Developer
 
 Focused on building scalable, high-performance web applications with modern frontend technologies.
