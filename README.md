@@ -2,10 +2,11 @@
 
 
 ```
-  /_/\     OS: Linux (Arch, Debian) | Windows
- ( •ᵕ• )   Editor: Neovim / Terminal
- / > \     Role: Web Developer
-           Interests: Coding, Guitar, Gaming, Learning
+
+  /\_/\       OS: Linux (Arch, Debian) | Windows
+ ( -.- ) zZ   Editor: Neovim / Terminal
+  > ^ <       Role: Web Developer
+              Interests: Coding, Guitar, Gaming, Learning
 ```
 
 ### Frontend Developer
