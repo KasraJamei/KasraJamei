@@ -1,6 +1,5 @@
 # Hey, I'm Kasra Jamei
 
-```bash
 kasrajamei@github:~$ ./portrait.sh
 
   /\_/\     OS: Linux / Debian
