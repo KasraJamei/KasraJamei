@@ -4,7 +4,7 @@
 
    / \_/ \   OS: Linux (Arch, Debian) | Windows
   (  o.o  )  Editor: Neovim / Terminal
-   > ^ <     Role: Web Developer
+    > ^ <    Role: Web Developer
              Interests: Coding, Guitar, Gaming, Learning
 ```
 ### Frontend Developer
