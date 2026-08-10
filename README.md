@@ -39,7 +39,6 @@ Focused on building scalable, high-performance web applications with modern fron
 </div>
 
 ---
-![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=kasrajamei&theme=github-dark&style=aura)
 
 ## Contact
 
