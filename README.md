@@ -1,12 +1,23 @@
 # Hey, I'm Kasra Jamei
 
 ```
-kasrajamei@github:~$ ./portrait.sh
 
-  /\_/\     OS: Linux / Debian
- ( o.o )    Editor: Neovim
-  > ^ <     Role: Tech Lead & Web Developer
-            Focus: Web Dev, Systems, Architecture
+▒▒▒▒▒▒▓▒▒░▒░▓▓▒▒▒▒▒▒  
+▒▒▒▒▒▒▒▒░░▒▓▓▒▒▒▒▒▒▒
+▒▒▒▒▒▓░░░▒▒▒▓▓▓▒▒▒▒▒  OS: Linux / Debian
+▒▒▒░▓█▒░░░▒▓▓███▒▒▒▒  
+▒▒░░▓▓░▒▒▒▒▒▓█▓▓▓▓▒▒  Editor: Neovim 
+▒▒░▓▓█▓▓▓▓█▓▓█▓▓▒▓▒▓
+▒▒▒▓░░░░░░░▒▓███▒▓▓▓  Role: Tech Lead & Web Developer
+▒▒▒░░░░░░░░▒▒▓▓▓▓▓▓▓
+▒▒▒▒▒░░░░▒▒▒▓▓▓▓▓▓▓▓  Focus: Web Dev, Systems, Architecture
+▒▒▒▒▒▒▓▒▒▓▓▓▓▓▓▓▓▓▓▓
+
+
+  /\_/\     
+ ( o.o )    
+  > ^ <     
+            
 ```
 ### Frontend Developer
 
