@@ -1,3 +1,4 @@
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=kasrajamei&theme=github-dark&style=aura)
 # Hey, I'm Kasra Jamei
 
 ### Frontend Developer
