@@ -2,22 +2,10 @@
 
 ```
 
-▒▒▒▒▒▒▓▒▒░▒░▓▓▒▒▒▒▒▒  
-▒▒▒▒▒▒▒▒░░▒▓▓▒▒▒▒▒▒▒
-▒▒▒▒▒▓░░░▒▒▒▓▓▓▒▒▒▒▒  OS: Linux / Debian
-▒▒▒░▓█▒░░░▒▓▓███▒▒▒▒  
-▒▒░░▓▓░▒▒▒▒▒▓█▓▓▓▓▒▒  Editor: Neovim 
-▒▒░▓▓█▓▓▓▓█▓▓█▓▓▒▓▒▓
-▒▒▒▓░░░░░░░▒▓███▒▓▓▓  Role: Tech Lead & Web Developer
-▒▒▒░░░░░░░░▒▒▓▓▓▓▓▓▓
-▒▒▒▒▒░░░░▒▒▒▓▓▓▓▓▓▓▓  Focus: Web Dev, Systems, Architecture
-▒▒▒▒▒▒▓▒▒▓▓▓▓▓▓▓▓▓▓▓
-
-
-  /\_/\     
- ( o.o )    
-  > ^ <     
-            
+   / \_/ \   OS: Linux (Arch, Debian) | Windows
+  (  o.o  )  Editor: Neovim / Terminal
+   > ^ <     Role: Web Developer
+             Interests: Coding, Guitar, Gaming, Learning
 ```
 ### Frontend Developer
 
