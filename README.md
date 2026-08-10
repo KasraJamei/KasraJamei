@@ -1,13 +1,9 @@
 # Hey, I'm Kasra Jamei
 
-```
-
    / \_/ \   OS: Linux (Arch, Debian) | Windows
-  (  o.o  )  Editor: Neovim / Terminal
-    > ^ <    Role: Web Developer
+  ( o.o )    Editor: Neovim / Terminal
+   > ^ <     Role: Web Developer
              Interests: Coding, Guitar, Gaming, Learning
-```
-
 
 ### Frontend Developer
 Focused on building scalable, high-performance web applications with modern frontend technologies.
@@ -15,25 +11,30 @@ Focused on building scalable, high-performance web applications with modern fron
 ---
 
 ## Technologies & Tools
+
 <div align="center">
-<image-card alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white" ></image-card>
-<image-card alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB" ></image-card>
-<image-card alt="Vue" src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D" ></image-card>
-<image-card alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white" ></image-card>
-<image-card alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge\&logo=nuxt\&logoColor=white" ></image-card>
-<image-card alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white" ></image-card>
-<image-card alt="MaterialUI" src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white" ></image-card>
-<image-card alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white" ></image-card>
-<image-card alt="Vuex" src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D" ></image-card>
-<image-card alt="Pinia" src="https://img.shields.io/badge/Pinia-F7DF1E?style=for-the-badge\&logo=pinia\&logoColor=black" ></image-card>
-<image-card alt="i18n" src="https://img.shields.io/badge/i18n-000000?style=for-the-badge\&logo=googletranslate\&logoColor=white" ></image-card>
-<image-card alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black" ></image-card>
-<image-card alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white" ></image-card>
-<image-card alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge\&logo=axios\&logoColor=white" ></image-card>
-<image-card alt="Fetch\_API" src="https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge\&logo=javascript\&logoColor=white" ></image-card>
-<image-card alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white" ></image-card>
-<image-card alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge\&logo=eslint\&logoColor=white" ></image-card>
-<image-card alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white" ></image-card>
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-14171F?style=for-the-badge&logo=nx&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=prime&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vuex](https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Pinia](https://img.shields.io/badge/Pinia-F7DF1E?style=for-the-badge&logo=pinia&logoColor=black)
+![i18n](https://img.shields.io/badge/i18n-000000?style=for-the-badge&logo=googletranslate&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Fetch_API](https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress\&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 </div>
 
 ---
